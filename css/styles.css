@@ -45,6 +45,20 @@ article {
   margin-right: 10%;
   padding: 3%;
 }
+#design-text{
+  border: 1px solid;
+  width: 35vh;
+  /* height: 25vh; */
+  /* text-align: center; */
+}
+#development{
+  border: 1px solid;
+  width: 35vh;
+}
+#product{
+  border: 1px solid;
+  width: 35vh;
+}
 .portfolio {
   text-align: center;
   padding-top: 3%;
