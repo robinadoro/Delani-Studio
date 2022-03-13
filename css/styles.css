@@ -16,7 +16,7 @@
     height: 30vh;
     color: white;
 }
-.contact{
+section{
     background-image: url('../assets/backgrounds/c_image.jpg');
     background-repeat: no-repeat;
     background-size:cover;
