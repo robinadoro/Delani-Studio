@@ -1,7 +1,7 @@
 // Adding alert to submit button
-$("button").click(function(event) {
+$("button#sub").click(function(event) {
     var names = document.getElementById('names').value;
-    alert('Thank you, ' + names + ' Your message has been received. ');
+    alert('Thank you ' + names + ', Your message has been received. ');
     event.preventDefault();
 });
 
@@ -11,3 +11,5 @@ $("button").on('click', function(){
     this.reset();
   });
 });
+
+// Adding mouseover effect to portfolio
