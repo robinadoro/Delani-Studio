@@ -12,4 +12,8 @@ $("button").on('click', function(){
   });
 });
 
-// Adding mouseover effect to portfolio
+// Adding toggle to design
+$('.design').on('click', function(e) {
+  $('#design-text').toggle().show(); //you can list several class names 
+  e.preventDefault();
+});
