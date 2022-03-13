@@ -17,3 +17,17 @@ $('.design').on('click', function(e) {
   $('#design-text').toggle().show(); //you can list several class names 
   e.preventDefault();
 });
+
+// Adding toggle to development
+$('.development').on('click', function(e) {
+  $('#development').toggle().show(); //you can list several class names 
+  e.preventDefault();
+});
+
+// Adding toggle to product
+$('.product').on('click', function(e) {
+  $('#product').toggle().show(); //you can list several class names 
+  e.preventDefault();
+});
+
+
