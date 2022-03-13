@@ -48,16 +48,17 @@ article {
 #design-text{
   border: 1px solid;
   width: 45vh;
-  /* height: 25vh; */
-  /* text-align: center; */
+  display: none;
 }
 #development{
   border: 1px solid;
   width: 45vh;
+  display: none;
 }
 #product{
   border: 1px solid;
   width: 45vh;
+  display: none;
 }
 .portfolio {
   text-align: center;
