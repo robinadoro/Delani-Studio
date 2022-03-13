@@ -47,16 +47,19 @@ article {
 }
 #design-text{
   border: 1px solid;
+  border: none;
   width: 45vh;
   display: none;
 }
 #development{
   border: 1px solid;
+  border: none;
   width: 45vh;
   display: none;
 }
 #product{
   border: 1px solid;
+  border: none;
   width: 45vh;
   display: none;
 }

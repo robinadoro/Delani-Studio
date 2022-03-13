@@ -13,20 +13,24 @@ $("button").on('click', function(){
 });
 
 // Adding toggle to design
-$('.design').on('click', function(e) {
-  $('#design-text').toggle().show(); //you can list several class names 
+$('.design').click(function(e) {
+  $('#design').slideToggle(800);
+  $('#design-text').slideToggle(1000);
+
   e.preventDefault();
 });
 
 // Adding toggle to development
 $('.development').on('click', function(e) {
-  $('#development').toggle().show(); //you can list several class names 
+  $('.devpmt').slideToggle(800); 
+  $('#development').slideToggle(1000); 
   e.preventDefault();
 });
 
 // Adding toggle to product
 $('.product').on('click', function(e) {
-  $('#product').toggle().show(); //you can list several class names 
+  $('.prod').slideToggle(800); 
+  $('#product').slideToggle(1000); 
   e.preventDefault();
 });
 
