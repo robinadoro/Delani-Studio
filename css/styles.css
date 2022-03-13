@@ -41,23 +41,23 @@ article {
 .do {
   display: flex;
   justify-content: space-around;
-  margin-left: 15%;
+  margin-left: 10%;
   margin-right: 10%;
   padding: 3%;
 }
 #design-text{
   border: 1px solid;
-  width: 35vh;
+  width: 45vh;
   /* height: 25vh; */
   /* text-align: center; */
 }
 #development{
   border: 1px solid;
-  width: 35vh;
+  width: 45vh;
 }
 #product{
   border: 1px solid;
-  width: 35vh;
+  width: 45vh;
 }
 .portfolio {
   text-align: center;
