@@ -1,8 +1,8 @@
 // Adding alert to submit button
-$("button#sub").click(function(event) {
+$("button#sub").click(function() {
     var names = document.getElementById('names').value;
     alert('Thank you ' + names + ', we have received your message. Thank you for reaching out to us. ');
-    event.preventDefault();
+    // event.preventDefault();
 });
 
 // Clearing form
