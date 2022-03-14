@@ -34,6 +34,19 @@ $('.product').on('click', function(e) {
   e.preventDefault();
 });
 
+// // Adding mouseover
+// $('.work-img').mouseover(function(){
+//   $('.work').show();
+// })
+
+$('.work-img').mouseover(function(e) {
+  $('.work').stop(true, true).dequeue().show(800);
+  e.preventDefault();
+}).mouseout(function(e) {
+  $('.work').stop(true, true).dequeue().hide(800);
+  e.preventDefault();
+});
+
 
 
 
