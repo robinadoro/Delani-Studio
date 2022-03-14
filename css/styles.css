@@ -45,19 +45,19 @@ article {
   margin-right: 10%;
   padding: 3%;
 }
-#design-text{
+#design-text {
   border: 1px solid;
   border: none;
   width: 45vh;
   display: none;
 }
-#development{
+#development {
   border: 1px solid;
   border: none;
   width: 45vh;
   display: none;
 }
-#product{
+#product {
   border: 1px solid;
   border: none;
   width: 45vh;
@@ -118,6 +118,19 @@ article {
 #work8 {
   margin-right: 2%;
 }
+.work {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+
 section {
   background-image: url("../assets/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
@@ -148,36 +161,34 @@ form input {
   color: white;
   padding: 1%;
 }
-.btn:hover{
+.btn:hover {
   background-color: black;
   color: white;
   text-decoration: none;
 }
-form p button{
+form p button {
   background-color: black;
   color: white;
   margin-top: 1%;
 }
-#email:hover{
+#email:hover {
   background-color: black;
   color: white;
   text-decoration: none;
-
 }
-#email a{
+#email a {
   list-style: none;
   text-decoration: none;
   background-color: black;
   color: white;
-
 }
-.social{
-    justify-content: center;
-    position: relative;
-    padding: 2%;
-    margin-left: 37%;
+.social {
+  justify-content: center;
+  position: relative;
+  padding: 2%;
+  margin-left: 37%;
 }
-footer{
-    text-align: center;
-    padding-bottom: 1%;
+footer {
+  text-align: center;
+  padding-bottom: 1%;
 }

@@ -1,7 +1,7 @@
 // Adding alert to submit button
 $("button#sub").click(function(event) {
     var names = document.getElementById('names').value;
-    alert('Thank you ' + names + ', Your message has been received. ');
+    alert('Thank you ' + names + ', we have received your message. Thank you for reaching out to us. ');
     event.preventDefault();
 });
 
