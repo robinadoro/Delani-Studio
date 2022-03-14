@@ -36,23 +36,23 @@ $('.product').on('click', function(e) {
 
 // adding hover
 $(".work-img").hover(function(){
-    $(this).find(".work4").toggle(400);
+    $(this).find(".work4").toggle(500);
 });
 
 $(".work-img").hover(function(){
-  $(this).find(".work3").toggle(400);
+  $(this).find(".work3").toggle(500);
 });
 
 $(".work-img").hover(function(){
-  $(this).find(".work2").toggle(400);
+  $(this).find(".work2").toggle(500);
 });
 
 $(".work-img").hover(function(){
-  $(this).find(".work1").toggle(400);
+  $(this).find(".work1").toggle(500);
 });
 
 $(".work-img").hover(function(){
-  $(this).find(".work5").toggle(400);
+  $(this).find(".work5").toggle(500);
 });
 
 $(".work-img").hover(function(){
@@ -60,9 +60,9 @@ $(".work-img").hover(function(){
 });
 
 $(".work-img").hover(function(){
-  $(this).find(".work7").toggle(400);
+  $(this).find(".work7").toggle(500);
 });
 
 $(".work-img").hover(function(){
-  $(this).find(".work8").toggle(400);
+  $(this).find(".work8").toggle(500);
 });

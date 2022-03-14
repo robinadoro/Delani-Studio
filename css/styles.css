@@ -236,6 +236,10 @@ form input {
   padding-top: 0%;
   opacity: 0.4;
 }
+.fill{
+  display: flex;
+  justify-content: center;
+}
 
 .btn {
   border: none;
