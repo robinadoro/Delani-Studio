@@ -118,7 +118,7 @@ article {
 #work8 {
   margin-right: 2%;
 }
-.work {
+.work4 {
   border: 1px solid black;
   width: 40%;
   padding: 1%;
@@ -130,7 +130,90 @@ article {
   -ms-transform: translate(-50%, -50%);
   display: none;
 }
-
+.work3 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+.work2 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+.work1 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+.work5 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+.work6 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+.work7 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
+.work8 {
+  border: 1px solid black;
+  width: 40%;
+  padding: 1%;
+  margin-left: 50%;
+  text-align: center;
+  background: white;
+  opacity: 0.5;
+  transform: translate(-50%, -140px);
+  -ms-transform: translate(-50%, -50%);
+  display: none;
+}
 section {
   background-image: url("../assets/backgrounds/c_image.jpg");
   background-repeat: no-repeat;

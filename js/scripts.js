@@ -34,19 +34,35 @@ $('.product').on('click', function(e) {
   e.preventDefault();
 });
 
-// // Adding mouseover
-// $('.work-img').mouseover(function(){
-//   $('.work').show();
-// })
-
-$('.work-img').mouseover(function(e) {
-  $('.work').stop(true, true).dequeue().show(800);
-  e.preventDefault();
-}).mouseout(function(e) {
-  $('.work').stop(true, true).dequeue().hide(800);
-  e.preventDefault();
+// adding hover
+$(".work-img").hover(function(){
+    $(this).find(".work4").toggle(400);
 });
 
+$(".work-img").hover(function(){
+  $(this).find(".work3").toggle(400);
+});
 
+$(".work-img").hover(function(){
+  $(this).find(".work2").toggle(400);
+});
 
+$(".work-img").hover(function(){
+  $(this).find(".work1").toggle(400);
+});
 
+$(".work-img").hover(function(){
+  $(this).find(".work5").toggle(400);
+});
+
+$(".work-img").hover(function(){
+  $(this).find(".work6").toggle(400);
+});
+
+$(".work-img").hover(function(){
+  $(this).find(".work7").toggle(400);
+});
+
+$(".work-img").hover(function(){
+  $(this).find(".work8").toggle(400);
+});
