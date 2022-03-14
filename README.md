@@ -21,8 +21,8 @@
 [Git Clone here:](https://github.com/robinadoro/Delani-Studio)
 
 ## Behaviour Driven Development
-User fills the form to send a message
-User submits information to register for Newslater
+- User fills the form to send a message
+- User submits information to register for Newslater
 
 ## Technology Used
 
