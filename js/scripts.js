@@ -5,12 +5,12 @@ $("button#sub").click(function() {
     // event.preventDefault();
 });
 
-// Clearing form
-$("button").on('click', function(){
-  $('form').each(function(){
-    this.reset();
-  });
-});
+// // Clearing form
+// $("button").on('click', function(){
+//   $('form').each(function(){
+//     this.reset();
+//   });
+// });
 
 // Adding toggle to design
 $('.design').click(function(e) {
