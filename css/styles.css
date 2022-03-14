@@ -148,6 +148,29 @@ form input {
   color: white;
   padding: 1%;
 }
+.btn:hover{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+form p button{
+  background-color: black;
+  color: white;
+  margin-top: 1%;
+}
+#email:hover{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+
+}
+#email a{
+  list-style: none;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+
+}
 .social{
     justify-content: center;
     position: relative;
